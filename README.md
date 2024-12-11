@@ -4,4 +4,4 @@ Netflix
 
 <h2> Ekran Goruntusu </h2>
 
-![](netflixGif.gif)
+![](netflix.gif)
